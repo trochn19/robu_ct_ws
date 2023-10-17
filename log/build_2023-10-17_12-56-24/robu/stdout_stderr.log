@@ -1,0 +1,26 @@
+running develop
+running egg_info
+creating robu.egg-info
+writing robu.egg-info/PKG-INFO
+writing dependency_links to robu.egg-info/dependency_links.txt
+writing entry points to robu.egg-info/entry_points.txt
+writing requirements to robu.egg-info/requires.txt
+writing top-level names to robu.egg-info/top_level.txt
+writing manifest file 'robu.egg-info/SOURCES.txt'
+reading manifest file 'robu.egg-info/SOURCES.txt'
+writing manifest file 'robu.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/robu/work/robu_ct_ws/install/robu/lib/python3.10/site-packages/robu.egg-link (link to .)
+Installing mypublisher script to /home/robu/work/robu_ct_ws/install/robu/lib/robu
+Installing mysubscriber script to /home/robu/work/robu_ct_ws/install/robu/lib/robu
+Installing wallfollower script to /home/robu/work/robu_ct_ws/install/robu/lib/robu
+
+Installed /home/robu/work/robu_ct_ws/build/robu
+running install_data
+creating /home/robu/work/robu_ct_ws/install/robu/share
+creating /home/robu/work/robu_ct_ws/install/robu/share/ament_index
+creating /home/robu/work/robu_ct_ws/install/robu/share/ament_index/resource_index
+creating /home/robu/work/robu_ct_ws/install/robu/share/ament_index/resource_index/packages
+copying resource/robu -> /home/robu/work/robu_ct_ws/install/robu/share/ament_index/resource_index/packages
+creating /home/robu/work/robu_ct_ws/install/robu/share/robu
+copying package.xml -> /home/robu/work/robu_ct_ws/install/robu/share/robu

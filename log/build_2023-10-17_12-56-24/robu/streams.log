@@ -1,0 +1,28 @@
+[0.919s] Invoking command in '/home/robu/work/robu_ct_ws/build/robu': PYTHONPATH=/home/robu/work/robu_ct_ws/build/robu/prefix_override:/home/robu/work/robu_ct_ws/install/robu/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/robu/work/robu_ct_ws/build/robu/build --no-deps install_data
+[1.274s] running develop
+[1.503s] running egg_info
+[1.504s] creating robu.egg-info
+[1.505s] writing robu.egg-info/PKG-INFO
+[1.506s] writing dependency_links to robu.egg-info/dependency_links.txt
+[1.506s] writing entry points to robu.egg-info/entry_points.txt
+[1.506s] writing requirements to robu.egg-info/requires.txt
+[1.507s] writing top-level names to robu.egg-info/top_level.txt
+[1.507s] writing manifest file 'robu.egg-info/SOURCES.txt'
+[1.509s] reading manifest file 'robu.egg-info/SOURCES.txt'
+[1.510s] writing manifest file 'robu.egg-info/SOURCES.txt'
+[1.513s] running build_ext
+[1.513s] Creating /home/robu/work/robu_ct_ws/install/robu/lib/python3.10/site-packages/robu.egg-link (link to .)
+[1.514s] Installing mypublisher script to /home/robu/work/robu_ct_ws/install/robu/lib/robu
+[1.514s] Installing mysubscriber script to /home/robu/work/robu_ct_ws/install/robu/lib/robu
+[1.514s] Installing wallfollower script to /home/robu/work/robu_ct_ws/install/robu/lib/robu
+[1.515s] 
+[1.515s] Installed /home/robu/work/robu_ct_ws/build/robu
+[1.515s] running install_data
+[1.515s] creating /home/robu/work/robu_ct_ws/install/robu/share
+[1.515s] creating /home/robu/work/robu_ct_ws/install/robu/share/ament_index
+[1.515s] creating /home/robu/work/robu_ct_ws/install/robu/share/ament_index/resource_index
+[1.515s] creating /home/robu/work/robu_ct_ws/install/robu/share/ament_index/resource_index/packages
+[1.516s] copying resource/robu -> /home/robu/work/robu_ct_ws/install/robu/share/ament_index/resource_index/packages
+[1.516s] creating /home/robu/work/robu_ct_ws/install/robu/share/robu
+[1.516s] copying package.xml -> /home/robu/work/robu_ct_ws/install/robu/share/robu
+[1.567s] Invoked command in '/home/robu/work/robu_ct_ws/build/robu' returned '0': PYTHONPATH=/home/robu/work/robu_ct_ws/build/robu/prefix_override:/home/robu/work/robu_ct_ws/install/robu/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/robu/work/robu_ct_ws/build/robu/build --no-deps install_data

@@ -1,11 +1,11 @@
+running develop
+Removing /home/robu/work/robu_ct_ws/install/robu/lib/python3.10/site-packages/robu.egg-link (link to .)
 running egg_info
-creating ../../build/robu/robu.egg-info
 writing ../../build/robu/robu.egg-info/PKG-INFO
 writing dependency_links to ../../build/robu/robu.egg-info/dependency_links.txt
 writing entry points to ../../build/robu/robu.egg-info/entry_points.txt
 writing requirements to ../../build/robu/robu.egg-info/requires.txt
 writing top-level names to ../../build/robu/robu.egg-info/top_level.txt
-writing manifest file '../../build/robu/robu.egg-info/SOURCES.txt'
 reading manifest file '../../build/robu/robu.egg-info/SOURCES.txt'
 writing manifest file '../../build/robu/robu.egg-info/SOURCES.txt'
 running build
@@ -29,16 +29,10 @@ byte-compiling /home/robu/work/robu_ct_ws/install/robu/lib/python3.10/site-packa
 byte-compiling /home/robu/work/robu_ct_ws/install/robu/lib/python3.10/site-packages/robu/__init__.py to __init__.cpython-310.pyc
 byte-compiling /home/robu/work/robu_ct_ws/install/robu/lib/python3.10/site-packages/robu/subscriber_member_function.py to subscriber_member_function.cpython-310.pyc
 running install_data
-creating /home/robu/work/robu_ct_ws/install/robu/share
-creating /home/robu/work/robu_ct_ws/install/robu/share/ament_index
-creating /home/robu/work/robu_ct_ws/install/robu/share/ament_index/resource_index
-creating /home/robu/work/robu_ct_ws/install/robu/share/ament_index/resource_index/packages
-copying resource/robu -> /home/robu/work/robu_ct_ws/install/robu/share/ament_index/resource_index/packages
-creating /home/robu/work/robu_ct_ws/install/robu/share/robu
-copying package.xml -> /home/robu/work/robu_ct_ws/install/robu/share/robu
 running install_egg_info
 Copying ../../build/robu/robu.egg-info to /home/robu/work/robu_ct_ws/install/robu/lib/python3.10/site-packages/robu-0.0.0-py3.10.egg-info
 running install_scripts
-Installing ex10_wallfollower script to /home/robu/work/robu_ct_ws/install/robu/lib/robu
-Installing mypublisher = robu.publisher_member_function:mainmysubscriber script to /home/robu/work/robu_ct_ws/install/robu/lib/robu
+Installing mypublisher script to /home/robu/work/robu_ct_ws/install/robu/lib/robu
+Installing mysubscriber script to /home/robu/work/robu_ct_ws/install/robu/lib/robu
+Installing wallfollower script to /home/robu/work/robu_ct_ws/install/robu/lib/robu
 writing list of installed files to '/home/robu/work/robu_ct_ws/build/robu/install.log'
