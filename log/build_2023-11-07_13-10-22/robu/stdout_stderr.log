@@ -1,0 +1,30 @@
+running develop
+running egg_info
+writing ../../build/robu/robu.egg-info/PKG-INFO
+writing dependency_links to ../../build/robu/robu.egg-info/dependency_links.txt
+writing entry points to ../../build/robu/robu.egg-info/entry_points.txt
+writing requirements to ../../build/robu/robu.egg-info/requires.txt
+writing top-level names to ../../build/robu/robu.egg-info/top_level.txt
+reading manifest file '../../build/robu/robu.egg-info/SOURCES.txt'
+writing manifest file '../../build/robu/robu.egg-info/SOURCES.txt'
+running build
+running build_py
+copying robu/ex10_wallfollower.py -> /home/robu/work/robu_ct_ws/build/robu/build/lib/robu
+running install
+running install_lib
+copying /home/robu/work/robu_ct_ws/build/robu/build/lib/robu/ex10_wallfollower.py -> /home/robu/work/robu_ct_ws/install/robu/lib/python3.10/site-packages/robu
+byte-compiling /home/robu/work/robu_ct_ws/install/robu/lib/python3.10/site-packages/robu/ex10_wallfollower.py to ex10_wallfollower.cpython-310.pyc
+  File "/home/robu/work/robu_ct_ws/install/robu/lib/python3.10/site-packages/robu/ex10_wallfollower.py", line 35
+    def__init__(self):
+                     ^
+SyntaxError: invalid syntax
+
+running install_data
+running install_egg_info
+removing '/home/robu/work/robu_ct_ws/install/robu/lib/python3.10/site-packages/robu-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/robu/robu.egg-info to /home/robu/work/robu_ct_ws/install/robu/lib/python3.10/site-packages/robu-0.0.0-py3.10.egg-info
+running install_scripts
+Installing mypublisher script to /home/robu/work/robu_ct_ws/install/robu/lib/robu
+Installing mysubscriber script to /home/robu/work/robu_ct_ws/install/robu/lib/robu
+Installing wallfollower script to /home/robu/work/robu_ct_ws/install/robu/lib/robu
+writing list of installed files to '/home/robu/work/robu_ct_ws/build/robu/install.log'

@@ -1,0 +1,45 @@
+running egg_info
+creating build/robu/robu.egg-info
+writing build/robu/robu.egg-info/PKG-INFO
+writing dependency_links to build/robu/robu.egg-info/dependency_links.txt
+writing entry points to build/robu/robu.egg-info/entry_points.txt
+writing requirements to build/robu/robu.egg-info/requires.txt
+writing top-level names to build/robu/robu.egg-info/top_level.txt
+writing manifest file 'build/robu/robu.egg-info/SOURCES.txt'
+reading manifest file 'build/robu/robu.egg-info/SOURCES.txt'
+writing manifest file 'build/robu/robu.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/robu/work/robu_ct_ws/src/robu/build/robu/build
+creating /home/robu/work/robu_ct_ws/src/robu/build/robu/build/lib
+creating /home/robu/work/robu_ct_ws/src/robu/build/robu/build/lib/robu
+copying robu/ex10_wallfollower.py -> /home/robu/work/robu_ct_ws/src/robu/build/robu/build/lib/robu
+copying robu/publisher_member_function.py -> /home/robu/work/robu_ct_ws/src/robu/build/robu/build/lib/robu
+copying robu/__init__.py -> /home/robu/work/robu_ct_ws/src/robu/build/robu/build/lib/robu
+copying robu/subscriber_member_function.py -> /home/robu/work/robu_ct_ws/src/robu/build/robu/build/lib/robu
+running install
+running install_lib
+creating /home/robu/work/robu_ct_ws/src/robu/install/robu/lib/python3.10/site-packages/robu
+copying /home/robu/work/robu_ct_ws/src/robu/build/robu/build/lib/robu/ex10_wallfollower.py -> /home/robu/work/robu_ct_ws/src/robu/install/robu/lib/python3.10/site-packages/robu
+copying /home/robu/work/robu_ct_ws/src/robu/build/robu/build/lib/robu/publisher_member_function.py -> /home/robu/work/robu_ct_ws/src/robu/install/robu/lib/python3.10/site-packages/robu
+copying /home/robu/work/robu_ct_ws/src/robu/build/robu/build/lib/robu/__init__.py -> /home/robu/work/robu_ct_ws/src/robu/install/robu/lib/python3.10/site-packages/robu
+copying /home/robu/work/robu_ct_ws/src/robu/build/robu/build/lib/robu/subscriber_member_function.py -> /home/robu/work/robu_ct_ws/src/robu/install/robu/lib/python3.10/site-packages/robu
+byte-compiling /home/robu/work/robu_ct_ws/src/robu/install/robu/lib/python3.10/site-packages/robu/ex10_wallfollower.py to ex10_wallfollower.cpython-310.pyc
+byte-compiling /home/robu/work/robu_ct_ws/src/robu/install/robu/lib/python3.10/site-packages/robu/publisher_member_function.py to publisher_member_function.cpython-310.pyc
+byte-compiling /home/robu/work/robu_ct_ws/src/robu/install/robu/lib/python3.10/site-packages/robu/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/robu/work/robu_ct_ws/src/robu/install/robu/lib/python3.10/site-packages/robu/subscriber_member_function.py to subscriber_member_function.cpython-310.pyc
+running install_data
+creating /home/robu/work/robu_ct_ws/src/robu/install/robu/share
+creating /home/robu/work/robu_ct_ws/src/robu/install/robu/share/ament_index
+creating /home/robu/work/robu_ct_ws/src/robu/install/robu/share/ament_index/resource_index
+creating /home/robu/work/robu_ct_ws/src/robu/install/robu/share/ament_index/resource_index/packages
+copying resource/robu -> /home/robu/work/robu_ct_ws/src/robu/install/robu/share/ament_index/resource_index/packages
+creating /home/robu/work/robu_ct_ws/src/robu/install/robu/share/robu
+copying package.xml -> /home/robu/work/robu_ct_ws/src/robu/install/robu/share/robu
+running install_egg_info
+Copying build/robu/robu.egg-info to /home/robu/work/robu_ct_ws/src/robu/install/robu/lib/python3.10/site-packages/robu-0.0.0-py3.10.egg-info
+running install_scripts
+Installing mypublisher script to /home/robu/work/robu_ct_ws/src/robu/install/robu/lib/robu
+Installing mysubscriber script to /home/robu/work/robu_ct_ws/src/robu/install/robu/lib/robu
+Installing wallfollower script to /home/robu/work/robu_ct_ws/src/robu/install/robu/lib/robu
+writing list of installed files to '/home/robu/work/robu_ct_ws/src/robu/build/robu/install.log'

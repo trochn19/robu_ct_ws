@@ -1,0 +1,3 @@
+source;share/robu/hook/pythonpath.ps1
+source;share/robu/hook/pythonpath.dsv
+source;share/robu/hook/pythonpath.sh

@@ -1,0 +1,5 @@
+  File "/home/robu/work/robu_ct_ws/src/robu/install/robu/lib/python3.10/site-packages/robu/ex10_wallfollower.py", line 4
+    import std_msgs.msg import String
+                        ^^^^^^
+SyntaxError: invalid syntax
+

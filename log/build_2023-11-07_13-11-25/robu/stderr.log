@@ -1,0 +1,5 @@
+  File "/home/robu/work/robu_ct_ws/install/robu/lib/python3.10/site-packages/robu/ex10_wallfollower.py", line 58
+    self.turning_speed-wf_fast = 1.0
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: cannot assign to expression here. Maybe you meant '==' instead of '='?
+

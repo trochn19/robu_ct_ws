@@ -1,0 +1,34 @@
+[0.908s] Invoking command in '/home/robu/work/robu_ct_ws/build/robu': PYTHONPATH=/home/robu/work/robu_ct_ws/build/robu/prefix_override:/home/robu/work/robu_ct_ws/install/robu/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/robu/work/robu_ct_ws/build/robu/build
+[1.281s] running develop
+[1.572s] Invoked command in '/home/robu/work/robu_ct_ws/build/robu' returned '0': PYTHONPATH=/home/robu/work/robu_ct_ws/build/robu/prefix_override:/home/robu/work/robu_ct_ws/install/robu/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/robu/work/robu_ct_ws/build/robu/build
+[1.574s] Invoking command in '/home/robu/work/robu_ct_ws/src/robu': PYTHONPATH=/home/robu/work/robu_ct_ws/build/robu/prefix_override:/home/robu/work/robu_ct_ws/install/robu/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/robu build --build-base /home/robu/work/robu_ct_ws/build/robu/build install --record /home/robu/work/robu_ct_ws/build/robu/install.log --single-version-externally-managed
+[1.920s] running egg_info
+[1.921s] writing ../../build/robu/robu.egg-info/PKG-INFO
+[1.922s] writing dependency_links to ../../build/robu/robu.egg-info/dependency_links.txt
+[1.923s] writing entry points to ../../build/robu/robu.egg-info/entry_points.txt
+[1.923s] writing requirements to ../../build/robu/robu.egg-info/requires.txt
+[1.924s] writing top-level names to ../../build/robu/robu.egg-info/top_level.txt
+[1.929s] reading manifest file '../../build/robu/robu.egg-info/SOURCES.txt'
+[1.930s] writing manifest file '../../build/robu/robu.egg-info/SOURCES.txt'
+[1.931s] running build
+[1.931s] running build_py
+[1.931s] copying robu/ex10_wallfollower.py -> /home/robu/work/robu_ct_ws/build/robu/build/lib/robu
+[1.932s] running install
+[1.933s] running install_lib
+[1.934s] copying /home/robu/work/robu_ct_ws/build/robu/build/lib/robu/ex10_wallfollower.py -> /home/robu/work/robu_ct_ws/install/robu/lib/python3.10/site-packages/robu
+[1.935s] byte-compiling /home/robu/work/robu_ct_ws/install/robu/lib/python3.10/site-packages/robu/ex10_wallfollower.py to ex10_wallfollower.cpython-310.pyc
+[1.936s]   File "/home/robu/work/robu_ct_ws/install/robu/lib/python3.10/site-packages/robu/ex10_wallfollower.py", line 35
+[1.936s]     def__init__(self):
+[1.936s]                      ^
+[1.936s] SyntaxError: invalid syntax
+[1.936s] 
+[1.936s] running install_data
+[1.937s] running install_egg_info
+[1.940s] removing '/home/robu/work/robu_ct_ws/install/robu/lib/python3.10/site-packages/robu-0.0.0-py3.10.egg-info' (and everything under it)
+[1.941s] Copying ../../build/robu/robu.egg-info to /home/robu/work/robu_ct_ws/install/robu/lib/python3.10/site-packages/robu-0.0.0-py3.10.egg-info
+[1.945s] running install_scripts
+[1.974s] Installing mypublisher script to /home/robu/work/robu_ct_ws/install/robu/lib/robu
+[1.974s] Installing mysubscriber script to /home/robu/work/robu_ct_ws/install/robu/lib/robu
+[1.975s] Installing wallfollower script to /home/robu/work/robu_ct_ws/install/robu/lib/robu
+[1.976s] writing list of installed files to '/home/robu/work/robu_ct_ws/build/robu/install.log'
+[2.017s] Invoked command in '/home/robu/work/robu_ct_ws/src/robu' returned '0': PYTHONPATH=/home/robu/work/robu_ct_ws/build/robu/prefix_override:/home/robu/work/robu_ct_ws/install/robu/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/robu build --build-base /home/robu/work/robu_ct_ws/build/robu/build install --record /home/robu/work/robu_ct_ws/build/robu/install.log --single-version-externally-managed
